@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jp-timmer 
+- 👨‍💻 I'm a software engineer for IKEA.
+- 🇳🇱 Working and living in the Netherlands. 
