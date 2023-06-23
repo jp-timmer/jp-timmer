@@ -1,3 +1,7 @@
 - 👋 Hi, I’m @jp-timmer 
-- 👨‍💻 I'm a software engineer for IKEA.
-- 🇳🇱 Working and living in the Netherlands. 
+- 👨‍💻 I'm a software engineer for IKEA Digital
+- 🇳🇱 Working and living in the Netherlands
+- 🇸🇪 Lived in Sweden previously
+- ☁️ I specialize in Cloud / DevOps
+- ⌨️ I code mainly in Node & Python, but currently learning Golang
+- 🗣️ I'm fluent in 5 languages
