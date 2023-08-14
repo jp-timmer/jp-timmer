@@ -4,4 +4,4 @@
 - 🇸🇪 Lived in Sweden previously
 - ☁️ I specialize in Cloud / DevOps
 - ⌨️ I code mainly in Node & Python, but currently learning Golang
-- 🗣️ I'm fluent in 5 languages
+- 🗣️ I'm fluent in (speaking) 5 languages
