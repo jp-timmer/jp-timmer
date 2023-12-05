@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jp-timmer 
-- 👨‍💻 I'm a software engineer for IKEA Digital
+- 👨‍💻 I'm a DevOps engineer for IKEA Digital
 - 🇳🇱 Working and living in the Netherlands
 - 🇸🇪 Lived in Sweden previously
 - ☁️ I specialize in Cloud / DevOps
-- ⌨️ I code mainly in Node & Python, but currently learning Golang
+- ⌨️ I code mainly in JavaScript, Node.js, Shell, HCL & Python, but currently learning Golang
 - 🗣️ I'm fluent in (speaking) 5 languages
