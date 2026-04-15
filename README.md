@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jp-timmer 
-- 👨‍💻 I'm a DevOps engineer for IKEA Digital
+- 👨‍💻 I'm a Senior Software Engineer for IKEA Digital
 - 🇳🇱 Working and living in the Netherlands
 - 🇸🇪 Lived in Sweden previously
 - ☁️ I specialize in Cloud / DevOps
